@@ -1,2 +1,3 @@
 # hello-world
-hope to add intersting stuff
+Hope to add intersting stuff
+Enjoyed learning github
